@@ -26,6 +26,5 @@ I also made a dead simple [nonce counter](https://github.com/broketech/node.nonc
 to help with my private calls.
 
 ## TODO
- ~~ 1.  Add private calls.~~
-  2.  Package and make available via NPM.
-  3.  Flush out rest of v3 public API.
+  1.  Package and make available via NPM.
+  2.  Flush out rest of v3 public API.
