@@ -1,5 +1,5 @@
 # node.btce.api
-Simple Node.js wrapper for btc-e.com exchange public API.
+Simple Node.js wrapper for btc-e.com exchange trade API.
 
 This module requires request, the included hmac-sha512.js file, and querystring.  
 Run `$npm install request querystring` in your work directory, 
