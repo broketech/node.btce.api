@@ -1,8 +1,8 @@
 const base_url = 'https://btc-e.com/api/2/';
 const v3_url = 'https://btc-e.com/api/3/';
 const tapi_url = 'https://btc-e.com/tapi';
-const api_key = 'API_KEY';
-const api_secret = 'API_SECRET';
+var api_key = 'API_KEY';
+var api_secret = 'API_SECRET';
 
 var request = require('request');
 var qstring = require('querystring');
